@@ -2,6 +2,7 @@ package main
 
 import "errors"
 
+//工厂方法模式
 const (
 	PayWechat = 1
 	PayAli    = 2
